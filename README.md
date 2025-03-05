@@ -1,2 +1,2 @@
 # Ejercicio-18---Pandas-
-Calculo de valores mínimo y máximo de un objeto series
+Obtencion estadisticas basicas de un objeto series (describe)
